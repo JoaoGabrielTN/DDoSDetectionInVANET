@@ -1,0 +1,7 @@
+A Simulation Work for Generating a Novel Dataset to Detect Distributed Denial of Service Attacks on Vehicular Ad hoc NETwork system
+Novel Graph-Based Machine Learning Technique to Secure Smart Vehicles in Intelligent Transportation Systems
+A Survey on Machine Learning-Based Misbehavior Detection Systems for 5G and Beyond Vehicular Networks
+A Comprehensive Survey on Authentication and Attack Detection Schemes That Threaten It in Vehicular Ad-Hoc Networks 
+A Survey of Data Dissemination Schemes in Secure Inter-Vehicle Communications 
+Secure Communication for Connected Vehicles Safety Applications 
+A Literature Review of the Seriousness of Flooding-based DoS Attack 

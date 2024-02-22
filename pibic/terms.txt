@@ -1,0 +1,6 @@
+Kalman filter for noise reduction, Dempster-Shafer decision theory and Shannon’s entropy
+Google Colaboratory and Jetson Nano
+Centroid Localization (CL), Graham Scan Hull Algorithm (GSHA), and bloom filter data structure
+Physically Unclonable Function
+IEEE 802.11 and the C-V2X RAT
+OMNeT++, Veins, and Sumo. 
