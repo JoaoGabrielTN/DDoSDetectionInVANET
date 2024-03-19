@@ -3,4 +3,8 @@ Google Colaboratory and Jetson Nano
 Centroid Localization (CL), Graham Scan Hull Algorithm (GSHA), and bloom filter data structure
 Physically Unclonable Function
 IEEE 802.11 and the C-V2X RAT
-OMNeT++, Veins, and Sumo. 
+OMNeT++, Veins, and Sumo.
+Zero Trust (ZT) security paradigm
+Blcokchain
+Software defined network
+soft computing

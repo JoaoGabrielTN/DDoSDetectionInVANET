@@ -4,4 +4,7 @@ A Survey on Machine Learning-Based Misbehavior Detection Systems for 5G and Beyo
 A Comprehensive Survey on Authentication and Attack Detection Schemes That Threaten It in Vehicular Ad-Hoc Networks 
 A Survey of Data Dissemination Schemes in Secure Inter-Vehicle Communications 
 Secure Communication for Connected Vehicles Safety Applications 
-A Literature Review of the Seriousness of Flooding-based DoS Attack 
+A Literature Review of the Seriousness of Flooding-based DoS Attacks 
+Deploying a Low-Cost Wi-Fi-Based Vehicular Ad Hoc Network in a Shopping Mall Parking Lot: An Empirical Study
+A Comparative Review of Security Threats Datasets for Vehicular Networks
+Interworking of DSRC and Cellular Network Technologies for V2X Communications: A Survey
